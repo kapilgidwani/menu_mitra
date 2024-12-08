@@ -17,8 +17,8 @@ import Dashboard from '../admin/Dashboard.vue';
 const routes = [
   {
     path: "/",
-    name: "Home",
-    component: Home, 
+    name: "Menu",
+    component: Menu, 
   },
   {
     path: "/about",
